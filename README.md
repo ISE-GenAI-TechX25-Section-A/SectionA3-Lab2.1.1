@@ -2,7 +2,7 @@
 
 ## Team A3
 
-Amanda Chinaza Eni
+Amanda Chinaza Eni.
 Melanie Jackson .
 
 ## How to run the streamlit app
